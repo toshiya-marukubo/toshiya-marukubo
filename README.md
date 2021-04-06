@@ -4,7 +4,7 @@ I'm Toshiya Marukubo.
 * [Twitter](https://twitter.com/toshiyamarukubo)
 * [Instagram](https://www.instagram.com/toshiyamarukubo/)
 * [CodePen](https://codepen.io/toshiya-marukubo)
-### My Skils
+### My Skills
 * Google
 
 <!--
